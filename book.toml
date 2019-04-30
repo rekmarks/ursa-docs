@@ -1,0 +1,5 @@
+[book]
+authors = ["Erik Marks"]
+multilingual = false
+src = "src"
+title = "Ursa Documentation"
